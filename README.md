@@ -61,4 +61,6 @@ Kyra-Coin is a whimsical cryptocurrency inspired by a lovable dog named Kyra. It
  ### Conclusion
  KyraCoin is more than a cryptocurrency;  is a movement to transform the lives of abandoned dogs and promote responsible adoption.  Join us on this journey and be part of a community that is truly making a difference.
 
- **Thank you, KyraCoin 🐶**
+ **Thank you, KyraCoin 🐶
+ Twitter:
+https://x.com/KyraCoin?t=7wEOEmMTQM1_SL4aGdB27Q&s=08
