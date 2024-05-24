@@ -64,3 +64,7 @@ Kyra-Coin is a whimsical cryptocurrency inspired by a lovable dog named Kyra. It
  **Thank you, KyraCoin 🐶
  Twitter:
 https://x.com/KyraCoin?t=7wEOEmMTQM1_SL4aGdB27Q&s=08
+
+**Notice:**
+
+ Kyra Coin is not an investment and was created with the aim of raising awareness and with the mission of saving dogs in street situations, just as our beloved KyraCoin was saved from the streets.  We are not meme parodies.  It has no intrinsic value or expectations of financial return.  Kyra Coin makes no promises and is not responsible for any losses or errors in use;  Use at your own risk.  KyraCoin is not affiliated with any other memecoin.  Cryptocurrencies, including KyraCoin, can result in a 100% total loss.
