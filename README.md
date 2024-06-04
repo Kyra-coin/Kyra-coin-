@@ -27,7 +27,7 @@ Kyra-Coin is a whimsical cryptocurrency inspired by a lovable dog named Kyra. It
  - **Rewards for Holders**: KyraCoin holders will receive rewards soon...
  - **Events and Donations**: Use of KyraCoin in charitable events and for direct donations to partner NGOs.
  - 
-Kyra Coin was born as a meme coin on the Base Smart Chain (Base)
+Kyra Coin was born as a meme coin on the SOL Smart Chain (SOL)
 
  ### Donation System
  For every $1,000,000 raised in donations to KyraCoin:
