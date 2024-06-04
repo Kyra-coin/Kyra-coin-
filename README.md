@@ -17,7 +17,7 @@ Kyra-Coin is a whimsical cryptocurrency inspired by a lovable dog named Kyra. It
  - **Token Name**: KyraCoin
  - **Symbol**: KYRA
  - **Total Supply**: 1,000,000,000,000 KYRA
- - **Fair Launch on ApeStore**: KyraCoin will be launched fairly on ApeStore.
+ - **Fair Launch on http://pump.fun**: KyraCoin will be launched fairly on http://pump.fun.
  - **Distribution**:
    - **3%**: Initial burn to control inflation.
    - **40%**: Burns over time with the donation system for KyraCoin. 
